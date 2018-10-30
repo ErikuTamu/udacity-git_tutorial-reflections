@@ -1,0 +1,19 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates the ./git folder and it helps track the repository going forward
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is meant for preparing to check into live.  Working directory is where you can do larger breaking changes.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Continue to use git status to figure out what changes are staged for committed.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It's helpful when branches are used to try different experimental or new things before bring it back to mainline.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams will help you point out any issues with your branching structure and not to have lost commits
