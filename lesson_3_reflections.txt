@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+You can use the remote repository to allow for multiple users to work on it and/or removing the dependency to use your local as the main source of truth
